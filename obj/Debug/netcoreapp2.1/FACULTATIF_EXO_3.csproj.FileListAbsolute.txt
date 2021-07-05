@@ -1,0 +1,14 @@
+C:\Users\Elec\source\repos\FACULTATIF_EXO_3\FACULTATIF_EXO_3\bin\Debug\netcoreapp2.1\FACULTATIF_EXO_3.deps.json
+C:\Users\Elec\source\repos\FACULTATIF_EXO_3\FACULTATIF_EXO_3\bin\Debug\netcoreapp2.1\FACULTATIF_EXO_3.runtimeconfig.json
+C:\Users\Elec\source\repos\FACULTATIF_EXO_3\FACULTATIF_EXO_3\bin\Debug\netcoreapp2.1\FACULTATIF_EXO_3.runtimeconfig.dev.json
+C:\Users\Elec\source\repos\FACULTATIF_EXO_3\FACULTATIF_EXO_3\bin\Debug\netcoreapp2.1\FACULTATIF_EXO_3.dll
+C:\Users\Elec\source\repos\FACULTATIF_EXO_3\FACULTATIF_EXO_3\bin\Debug\netcoreapp2.1\FACULTATIF_EXO_3.pdb
+C:\Users\Elec\source\repos\FACULTATIF_EXO_3\FACULTATIF_EXO_3\obj\Debug\netcoreapp2.1\FACULTATIF_EXO_3.csprojAssemblyReference.cache
+C:\Users\Elec\source\repos\FACULTATIF_EXO_3\FACULTATIF_EXO_3\obj\Debug\netcoreapp2.1\FACULTATIF_EXO_3.csproj.CoreCompileInputs.cache
+C:\Users\Elec\source\repos\FACULTATIF_EXO_3\FACULTATIF_EXO_3\obj\Debug\netcoreapp2.1\FACULTATIF_EXO_3.RazorAssemblyInfo.cache
+C:\Users\Elec\source\repos\FACULTATIF_EXO_3\FACULTATIF_EXO_3\obj\Debug\netcoreapp2.1\FACULTATIF_EXO_3.RazorAssemblyInfo.cs
+C:\Users\Elec\source\repos\FACULTATIF_EXO_3\FACULTATIF_EXO_3\obj\Debug\netcoreapp2.1\FACULTATIF_EXO_3.AssemblyInfoInputs.cache
+C:\Users\Elec\source\repos\FACULTATIF_EXO_3\FACULTATIF_EXO_3\obj\Debug\netcoreapp2.1\FACULTATIF_EXO_3.AssemblyInfo.cs
+C:\Users\Elec\source\repos\FACULTATIF_EXO_3\FACULTATIF_EXO_3\obj\Debug\netcoreapp2.1\FACULTATIF_EXO_3.RazorTargetAssemblyInfo.cache
+C:\Users\Elec\source\repos\FACULTATIF_EXO_3\FACULTATIF_EXO_3\obj\Debug\netcoreapp2.1\FACULTATIF_EXO_3.dll
+C:\Users\Elec\source\repos\FACULTATIF_EXO_3\FACULTATIF_EXO_3\obj\Debug\netcoreapp2.1\FACULTATIF_EXO_3.pdb
